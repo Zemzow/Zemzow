@@ -14,8 +14,8 @@
 
 ## 
 
-<i> There Is a Light That Never Goes Out. 
-Keep the flame lit.</i> <br> <br>
-<img src="https://user-images.githubusercontent.com/109619902/235510079-835741cc-bf24-4357-a1c2-38c2e66b7e93.gif" width="220">
+<i> "WELCOME" <br>
+"Um caçador é um caçador, mesmo em um sonho".</i> <br> <br>
+<img src="https://github.com/Zemzow/Zemzow/issues/1#issuecomment-1566292093" width="220">
 
 ##
