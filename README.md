@@ -14,8 +14,5 @@
 
 ## 
 
-<i> "WELCOME" <br>
-"Um caçador é um caçador, mesmo em um sonho".</i> <br> <br>
-<img src="https://github.com/Zemzow/Zemzow/issues/1#issuecomment-1566292093" width="220">
 
 ##
